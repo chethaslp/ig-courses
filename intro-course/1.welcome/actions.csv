@@ -1,0 +1,7 @@
+-1,checkpoint,"Start","Welcome to the onboarding!"
+-1,maximise
+-1,switch-theme,light
+16000,minimise
+24000,switch-theme,dark
+28000,highlight,chat_window,3000
+34000,prompt,text,"Questions?"
