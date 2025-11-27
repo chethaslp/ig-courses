@@ -1,0 +1,13 @@
+{
+  "title": "JavaScript Basics",
+  "modules": [
+    "js-getting-started",
+    "variables-datatypes",
+    "arithmetic-string-ops",
+    "mastering-arithmetic",
+    "conditionals-alerts",
+    "arrays-loops",
+    "js-functions"
+  ],
+  "id": "javascript-basics"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Project Linktree Clone",
+  "modules": [
+    "project-linktree",
+    "git-version-control",
+    "github-pages-hosting"
+  ],
+  "id": "project-linktree-clone"
+}

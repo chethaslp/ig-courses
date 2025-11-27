@@ -1,0 +1,10 @@
+{
+  "title": "Blogging App",
+  "modules": [
+    "project-planning",
+    "backend-dev",
+    "frontend-dev",
+    "deployment"
+  ],
+  "id": "blogging-app"
+}

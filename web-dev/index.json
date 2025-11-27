@@ -5,69 +5,76 @@
     {
       "title": "Basics of Web Development",
       "items": [
-        "1.setup-environment",
-        "2.html-basics",
-        "3.css-fundamentals",
-        "4.forms-user-input",
-        "5.responsive-design"
-      ]
+        "setup-environment",
+        "html-basics",
+        "css-fundamentals",
+        "forms-user-input",
+        "responsive-design"
+      ],
+      "id": "basics-of-web-development"
     },
     {
       "title": "JavaScript Basics",
       "items": [
-        "6.js-getting-started",
-        "7.variables-datatypes",
-        "8.arithmetic-string-ops",
-        "9.mastering-arithmetic",
-        "10.conditionals-alerts",
-        "11.arrays-loops",
-        "12.js-functions"
-      ]
+        "js-getting-started",
+        "variables-datatypes",
+        "arithmetic-string-ops",
+        "mastering-arithmetic",
+        "conditionals-alerts",
+        "arrays-loops",
+        "js-functions"
+      ],
+      "id": "javascript-basics"
     },
     {
       "title": "Project: Linktree Clone",
       "items": [
-        "13.project-linktree",
-        "14.git-version-control",
-        "15.github-pages-hosting"
-      ]
+        "project-linktree",
+        "git-version-control",
+        "github-pages-hosting"
+      ],
+      "id": "project-linktree-clone"
     },
     {
       "title": "API Integration",
       "items": [
-        "16.fetching-data",
-        "17.displaying-data",
-        "18.error-handling",
-        "19.project-quote-generator"
-      ]
+        "fetching-data",
+        "displaying-data",
+        "error-handling",
+        "project-quote-generator"
+      ],
+      "id": "api-integration"
     },
     {
       "title": "Backend with Express",
       "items": [
-        "20.node-setup",
-        "21.simple-api",
-        "22.handling-requests",
-        "23.project-todo-list"
-      ]
+        "node-setup",
+        "simple-api",
+        "handling-requests",
+        "project-todo-list"
+      ],
+      "id": "backend-with-express"
     },
     {
       "title": "SSR with Express and Mongo",
       "items": [
-        "24.ejs-templating",
-        "25.dynamic-views",
-        "26.mongodb-connection",
-        "27.mongoose-crud",
-        "28.project-task-manager"
-      ]
+        "ejs-templating",
+        "dynamic-views",
+        "mongodb-connection",
+        "mongoose-crud",
+        "project-task-manager"
+      ],
+      "id": "ssr-with-express-and-mongo"
     },
     {
       "title": "Blogging App",
       "items": [
-        "29.project-planning",
-        "30.backend-dev",
-        "31.frontend-dev",
-        "32.deployment"
-      ]
+        "project-planning",
+        "backend-dev",
+        "frontend-dev",
+        "deployment"
+      ],
+      "id": "blogging-app"
     }
   ]
 }
