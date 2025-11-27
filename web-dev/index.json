@@ -1,0 +1,9 @@
+{
+  "title": "Web Development",
+  "description": "A comprehensive web development course covering HTML, CSS, JS, APIs, Express, MongoDB, etc.",
+  "authors": ["Mulearn"],
+  "tags": ["web-development", "html", "css", "javascript", "express", "mongodb"],
+  "difficulty": "Beginner",
+  "duration": "20 hours",
+  "thumbnail": "thumbnail.jpeg"
+}

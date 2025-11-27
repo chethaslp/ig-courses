@@ -1,0 +1,7 @@
+{
+  "title": "Project: Dynamic Quote Generator",
+  "type": "project",
+  "description": "Build a webpage that displays a new random quote every time a button is clicked.",
+  "authors": ["Mulearn"],
+  "time": "1.5 hours"
+}

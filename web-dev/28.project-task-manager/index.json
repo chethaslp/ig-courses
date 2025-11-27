@@ -1,0 +1,6 @@
+{
+  "title": "Project: Task Manager",
+  "type": "project",
+  "description": "Build a full-stack Task Manager app with Express, EJS, and MongoDB.",
+  "difficulty": "hard"
+}

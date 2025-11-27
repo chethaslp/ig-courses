@@ -1,0 +1,6 @@
+{
+  "title": "Mongoose CRUD Operations",
+  "type": "practice",
+  "description": "Define data models and perform Create, Read, Update, and Delete operations.",
+  "difficulty": "intermediate"
+}

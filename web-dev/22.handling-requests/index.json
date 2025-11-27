@@ -1,0 +1,7 @@
+{
+  "title": "Handling Requests and Responses",
+  "type": "exercise",
+  "description": "Learn how to parse incoming data and send appropriate responses.",
+  "authors": ["Mulearn"],
+  "time": "45 minutes"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Setting Up a Node.js Project",
+  "type": "exercise",
+  "description": "Initialize a Node.js project and install Express.",
+  "authors": ["Mulearn"],
+  "time": "30 minutes"
+}
