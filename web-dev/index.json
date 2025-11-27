@@ -1,9 +1,73 @@
 {
-  "title": "Web Development",
-  "description": "A comprehensive web development course covering HTML, CSS, JS, APIs, Express, MongoDB, etc.",
-  "authors": ["Mulearn"],
-  "tags": ["web-development", "html", "css", "javascript", "express", "mongodb"],
-  "difficulty": "Beginner",
-  "duration": "20 hours",
-  "thumbnail": "thumbnail.jpeg"
+  "title": "Web Development Bootcamp",
+  "description": "A complete guide to becoming a full-stack web developer.",
+  "sections": [
+    {
+      "title": "Basics of Web Development",
+      "items": [
+        "1.setup-environment",
+        "2.html-basics",
+        "3.css-fundamentals",
+        "4.forms-user-input",
+        "5.responsive-design"
+      ]
+    },
+    {
+      "title": "JavaScript Basics",
+      "items": [
+        "6.js-getting-started",
+        "7.variables-datatypes",
+        "8.arithmetic-string-ops",
+        "9.mastering-arithmetic",
+        "10.conditionals-alerts",
+        "11.arrays-loops",
+        "12.js-functions"
+      ]
+    },
+    {
+      "title": "Project: Linktree Clone",
+      "items": [
+        "13.project-linktree",
+        "14.git-version-control",
+        "15.github-pages-hosting"
+      ]
+    },
+    {
+      "title": "API Integration",
+      "items": [
+        "16.fetching-data",
+        "17.displaying-data",
+        "18.error-handling",
+        "19.project-quote-generator"
+      ]
+    },
+    {
+      "title": "Backend with Express",
+      "items": [
+        "20.node-setup",
+        "21.simple-api",
+        "22.handling-requests",
+        "23.project-todo-list"
+      ]
+    },
+    {
+      "title": "SSR with Express and Mongo",
+      "items": [
+        "24.ejs-templating",
+        "25.dynamic-views",
+        "26.mongodb-connection",
+        "27.mongoose-crud",
+        "28.project-task-manager"
+      ]
+    },
+    {
+      "title": "Blogging App",
+      "items": [
+        "29.project-planning",
+        "30.backend-dev",
+        "31.frontend-dev",
+        "32.deployment"
+      ]
+    }
+  ]
 }
