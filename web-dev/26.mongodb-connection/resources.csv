@@ -1,0 +1,10 @@
+﻿res-1,link,https://www.mongodb.com/atlas
+res-2,command,npm install mongoose
+res-3,code,"const mongoose = require('mongoose');
+
+// Replace with your actual connection string
+const dbURI = 'mongodb+srv://...'; 
+
+mongoose.connect(dbURI)
+    .then((result) => console.log('Connected to DB'))
+    .catch((err) => console.log(err));"

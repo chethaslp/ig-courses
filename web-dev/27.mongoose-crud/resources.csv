@@ -1,0 +1,26 @@
+﻿res-1,code,"const mongoose = require('mongoose');
+const Schema = mongoose.Schema;
+
+const taskSchema = new Schema({
+    title: { type: String, required: true },
+    completed: { type: Boolean, default: false }
+}, { timestamps: true });
+
+const Task = mongoose.model('Task', taskSchema);
+module.exports = Task;"
+res-2,code,"const Task = require('./models/Task');
+
+app.get('/add-task', (req, res) => {
+    const task = new Task({
+        title: 'Learn Mongoose'
+    });
+
+    task.save()
+        .then((result) => res.send(result))
+        .catch((err) => console.log(err));
+});"
+res-3,code,"app.get('/all-tasks', (req, res) => {
+    Task.find()
+        .then((tasks) => res.send(tasks))
+        .catch((err) => console.log(err));
+});"

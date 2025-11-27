@@ -1,0 +1,5 @@
+﻿res-1,code,"function greetUser(name) {
+  return ""Hello, "" + name + ""!"";
+}
+console.log(greetUser(""Hithesh TK""));"
+res-2,link,https://www.w3schools.com/js/js_functions.asp

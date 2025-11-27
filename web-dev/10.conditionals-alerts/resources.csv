@@ -1,0 +1,10 @@
+﻿res-1,code,"let number = prompt(""Enter a number:"");
+if (number > 0) {
+  alert(""The number is positive."");
+} else if (number < 0) {
+  alert(""The number is negative."");
+} else {
+  alert(""The number is zero."");
+}"
+res-2,link,https://www.w3schools.com/js/js_if_else.asp
+res-3,link,https://www.w3schools.com/jsref/met_win_alert.asp

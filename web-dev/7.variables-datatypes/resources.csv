@@ -1,0 +1,6 @@
+﻿res-1,code,"let name = ""Amarnath Sujith"";
+let age = 34;
+let isStudent = true;
+let hobbies = [""reading"", ""coding""];
+let address = { city: ""Kazhakootam"", country: ""INDIA"" };"
+res-2,link,https://www.w3schools.com/js/js_datatypes.asp

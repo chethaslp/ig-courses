@@ -1,0 +1,19 @@
+﻿res-1,code,"app.get('/', (req, res) => {
+    const user = { name: ""Alice"", isAdmin: true };
+    res.render('index', { user: user });
+});"
+res-2,code,<h1>Welcome, <%= user.name %>!</h1>
+res-3,code,"<% if (user.isAdmin) { %>
+    <button>Admin Dashboard</button>
+<% } else { %>
+    <p>Welcome, guest.</p>
+<% } %>"
+res-4,code,"// In route
+const items = ['Apple', 'Banana', 'Cherry'];
+res.render('index', { items });"
+res-5,code,"<!-- In view -->
+<ul>
+    <% items.forEach(function(item) { %>
+        <li><%= item %></li>
+    <% }); %>
+</ul>"

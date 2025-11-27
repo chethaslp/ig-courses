@@ -1,0 +1,14 @@
+﻿res-1,command,npm install ejs
+res-2,code,app.set('view engine', 'ejs');
+res-3,code,"<!DOCTYPE html>
+<html>
+<head>
+    <title>My EJS App</title>
+</head>
+<body>
+    <h1>Hello from EJS!</h1>
+</body>
+</html>"
+res-4,code,"app.get('/', (req, res) => {
+    res.render('index'); // No need for .ejs extension
+});"
