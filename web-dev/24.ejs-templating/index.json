@@ -1,6 +1,6 @@
 {
   "title": "EJS Templating Setup",
-  "type": "practice",
+  "type": "lecture",
   "description": "Learn how to set up EJS for server-side rendering in Express.",
   "difficulty": "intermediate"
 }

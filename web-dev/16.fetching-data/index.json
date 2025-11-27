@@ -1,6 +1,6 @@
 {
   "title": "Fetching Data from an API",
-  "type": "exercise",
+  "type": "lecture",
   "description": "Learn how to fetch data from a public API using the fetch API.",
   "authors": ["Mulearn"],
   "time": "45 minutes"
