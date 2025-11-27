@@ -3,78 +3,39 @@
   "description": "A complete guide to becoming a full-stack web developer.",
   "sections": [
     {
+      "id": "basics-of-web-development",
       "title": "Basics of Web Development",
-      "items": [
-        "setup-environment",
-        "html-basics",
-        "css-fundamentals",
-        "forms-user-input",
-        "responsive-design"
-      ],
-      "id": "basics-of-web-development"
+      "order": 1
     },
     {
+      "id": "javascript-basics",
       "title": "JavaScript Basics",
-      "items": [
-        "js-getting-started",
-        "variables-datatypes",
-        "arithmetic-string-ops",
-        "mastering-arithmetic",
-        "conditionals-alerts",
-        "arrays-loops",
-        "js-functions"
-      ],
-      "id": "javascript-basics"
+      "order": 2
     },
     {
+      "id": "project-linktree-clone",
       "title": "Project: Linktree Clone",
-      "items": [
-        "project-linktree",
-        "git-version-control",
-        "github-pages-hosting"
-      ],
-      "id": "project-linktree-clone"
+      "order": 3
     },
     {
+      "id": "api-integration",
       "title": "API Integration",
-      "items": [
-        "fetching-data",
-        "displaying-data",
-        "error-handling",
-        "project-quote-generator"
-      ],
-      "id": "api-integration"
+      "order": 4
     },
     {
+      "id": "backend-with-express",
       "title": "Backend with Express",
-      "items": [
-        "node-setup",
-        "simple-api",
-        "handling-requests",
-        "project-todo-list"
-      ],
-      "id": "backend-with-express"
+      "order": 5
     },
     {
+      "id": "ssr-with-express-and-mongo",
       "title": "SSR with Express and Mongo",
-      "items": [
-        "ejs-templating",
-        "dynamic-views",
-        "mongodb-connection",
-        "mongoose-crud",
-        "project-task-manager"
-      ],
-      "id": "ssr-with-express-and-mongo"
+      "order": 6
     },
     {
+      "id": "blogging-app",
       "title": "Blogging App",
-      "items": [
-        "project-planning",
-        "backend-dev",
-        "frontend-dev",
-        "deployment"
-      ],
-      "id": "blogging-app"
+      "order": 7
     }
   ]
 }
