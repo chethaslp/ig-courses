@@ -1,7 +1,0 @@
-{
-  "title": "Building a Simple API with Express",
-  "type": "exercise",
-  "description": "Create API endpoints to handle GET and POST requests.",
-  "authors": ["Mulearn"],
-  "time": "45 minutes"
-}
