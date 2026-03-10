@@ -1,0 +1,9 @@
+{
+  "title": "General",
+  "modules": [
+    "welcome",
+    "setup-environment",
+    "first-exercise"
+  ],
+  "id": "general"
+}
