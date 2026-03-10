@@ -1,0 +1,11 @@
+{
+  "title": "SSR with Express and Mongo",
+  "modules": [
+    "ejs-templating",
+    "dynamic-views",
+    "mongodb-connection",
+    "mongoose-crud",
+    "project-task-manager"
+  ],
+  "id": "ssr-with-express-and-mongo"
+}

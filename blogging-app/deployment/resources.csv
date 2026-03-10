@@ -1,0 +1,5 @@
+﻿res-1,code,"""start"": ""node app.js"""
+res-2,code,process.env.DB_URI
+res-3,code,app.listen(process.env.PORT || 3000)
+res-4,command,npm install
+res-5,command,node app.js

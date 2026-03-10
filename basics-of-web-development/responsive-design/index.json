@@ -1,0 +1,7 @@
+{
+  "title": "Responsive Web Design",
+  "type": "exercise",
+  "description": "Ensure your webpage is responsive across different devices using media queries.",
+  "authors": ["Mulearn"],
+  "time": "1 hour"
+}

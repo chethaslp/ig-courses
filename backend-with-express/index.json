@@ -1,0 +1,10 @@
+{
+  "title": "Backend with Express",
+  "modules": [
+    "node-setup",
+    "simple-api",
+    "handling-requests",
+    "project-todo-list"
+  ],
+  "id": "backend-with-express"
+}

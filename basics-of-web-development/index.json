@@ -1,0 +1,11 @@
+{
+  "title": "Basics of Web Development",
+  "modules": [
+    "setup-environment",
+    "html-basics",
+    "css-fundamentals",
+    "forms-user-input",
+    "responsive-design"
+  ],
+  "id": "basics-of-web-development"
+}

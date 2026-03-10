@@ -1,0 +1,5 @@
+﻿res-1,code,"fetch('https://jsonplaceholder.typicode.com/posts/1')
+  .then(response => response.json())
+  .then(json => console.log(json));"
+res-2,link,https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+res-3,link,https://jsonplaceholder.typicode.com/

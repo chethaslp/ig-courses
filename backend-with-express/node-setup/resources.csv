@@ -1,0 +1,4 @@
+﻿res-1,command,npm init -y
+res-2,command,npm install express
+res-3,link,https://nodejs.org/en/docs/guides/getting-started-guide/
+res-4,link,https://expressjs.com/en/starter/hello-world.html

@@ -1,0 +1,7 @@
+{
+  "title": "Displaying Data Dynamically",
+  "type": "exercise",
+  "description": "Display fetched data on your webpage using DOM manipulation.",
+  "authors": ["Mulearn"],
+  "time": "45 minutes"
+}

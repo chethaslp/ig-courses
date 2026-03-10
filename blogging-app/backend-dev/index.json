@@ -1,0 +1,6 @@
+{
+  "title": "Backend Development",
+  "type": "project",
+  "description": "Implement the server, database connection, and API routes for the blogging app.",
+  "difficulty": "hard"
+}

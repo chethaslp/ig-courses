@@ -1,0 +1,6 @@
+{
+  "title": "MongoDB Connection",
+  "type": "practice",
+  "description": "Connect your Node.js application to a MongoDB database using Mongoose.",
+  "difficulty": "intermediate"
+}

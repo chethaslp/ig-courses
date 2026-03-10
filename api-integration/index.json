@@ -1,0 +1,10 @@
+{
+  "title": "API Integration",
+  "modules": [
+    "fetching-data",
+    "displaying-data",
+    "error-handling",
+    "project-quote-generator"
+  ],
+  "id": "api-integration"
+}

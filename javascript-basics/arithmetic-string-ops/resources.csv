@@ -1,0 +1,6 @@
+﻿res-1,code,"let greeting = ""Hello"";
+let name = ""Chethas"";
+let fullGreeting = greeting + "" "" + name + ""!"";
+console.log(fullGreeting.toUpperCase());"
+res-2,link,https://www.w3schools.com/js/js_operators.asp
+res-3,link,https://www.w3schools.com/js/js_string_methods.asp

@@ -1,0 +1,5 @@
+﻿res-1,link,https://youtu.be/-wGc24R3_eM?si=Jlc4LE5BnRTUE5wf
+res-2,command,git init
+res-3,command,"git add .
+git commit -m ""Initial commit"""
+res-4,link,https://www.youtube.com/playlist?list=PLY-ecO2csVHdLhAO6TERaMJXP8aqyWVt-

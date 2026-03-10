@@ -1,0 +1,6 @@
+{
+  "title": "Dynamic Views with EJS",
+  "type": "practice",
+  "description": "Pass data from your server to your views and use logic inside templates.",
+  "difficulty": "intermediate"
+}
